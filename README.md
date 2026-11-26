@@ -3,6 +3,20 @@
 
 A football recruitment analytics platform built using Python, Streamlit and SQLite. FTI helps explore player performance, evaluate positional profiles, discover similar players and manage recruitment shortlists through interactive data visualizations and a persistent database.
 
+## Application Preview
+
+### 1. Market Overview
+![Market Overview](assets/market-overview.png)
+
+### 2. Player Intelligence
+![Player Intelligence](assets/player-intelligence.png)
+
+### 3. Player Comparison & Radar
+![Player Comparison](assets/compare-radar.png)
+
+### 4. Scouting Plot
+![Scouting Plot](assets/scouting-plot.png)
+
 ## Key Features
 
 - **Market Overview:** Player population, league coverage and recruitment rankings.
